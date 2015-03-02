@@ -1,0 +1,18 @@
+h1. AuiNode - Type: @controller@
+
+h2. Base
+
+* *Name*: name for the controller ending on @Controller@
+* *Type*: @controller@
+
+h2. Data
+
+{table}
+*Key* | *Value*
+@servicePackage@ | Package name of the related service
+@simpleName@ | Simple name of the controller for convenience (decapitalized version of name without @Controller@ suffix)
+{table}
+
+h2. Children
+
+*TODO*

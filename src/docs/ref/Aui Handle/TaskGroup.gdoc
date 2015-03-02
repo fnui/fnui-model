@@ -1,0 +1,16 @@
+h1. TaskGroup
+
+h2. Purpose
+
+Translation of a TaskGroup into the an AuiGroup describing a controller.
+
+h2. AuiNode definition
+
+Transform the provided node into a [controller|auiNodes].
+
+h2. Calls
+
+{table}
+*Handle* | *Node* | *Context*
+@TaskFlows@ | Controller | TaskGroup
+{table}
